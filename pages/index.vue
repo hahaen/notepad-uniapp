@@ -1,9 +1,12 @@
 <template>
   <view class="content">
-    <image class="logo" src="@/static/logo.png"></image>
+    <!-- <image class="logo" src="@/static/logo.png"></image>
     <view class="text-area">
       <text class="title">Hello RuoYi</text>
-    </view>
+    </view> -->
+	<view class="text-area">
+	  <text class="title">欢迎使用哈哈记事本!</text>
+	</view>
   </view>
 </template>
 

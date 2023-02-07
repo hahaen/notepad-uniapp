@@ -16,6 +16,11 @@
       "navigationBarTitleText": "工作台"
     }
   }, {
+    "path": "pages/remind/index",
+    "style": {
+      "navigationBarTitleText": "定时通知"
+    }
+  },{
     "path": "pages/mine/index",
     "style": {
       "navigationBarTitleText": "我的"
@@ -81,6 +86,11 @@
         "iconPath": "static/images/tabbar/work.png",
         "selectedIconPath": "static/images/tabbar/work_.png",
         "text": "工作台"
+      }, {
+        "pagePath": "pages/remind/index",
+        "iconPath": "static/images/tabbar/work.png",
+        "selectedIconPath": "static/images/tabbar/work_.png",
+        "text": "定时通知"
       }, {
         "pagePath": "pages/mine/index",
         "iconPath": "static/images/tabbar/mine.png",

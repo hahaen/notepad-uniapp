@@ -44,8 +44,8 @@
         captchaEnabled: true,
         globalConfig: getApp().globalData.config,
         loginForm: {
-          username: "admin",
-          password: "admin123",
+          username: "",
+          password: "",
           code: "",
           uuid: ''
         }
